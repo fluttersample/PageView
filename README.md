@@ -2,7 +2,8 @@
 
 | Gif  | Image |
 | ------------- | ------------- |
-|  <img src="https://github.com/fluttersample/ui_login/blob/main/view.gif" width="300" />| <img src="https://github.com/fluttersample/ui_login/blob/main/sc.png" width="300" />  |
+|  <img src="https://github.com/fluttersample/PageView/blob/main/sc1.jpg" width="300" />|
+<img src="https://github.com/fluttersample/PageView/blob/main/sc2.jpg" width="300" />  |
 
 
 
